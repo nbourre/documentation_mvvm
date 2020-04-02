@@ -10,7 +10,7 @@ Modifier App.xaml.cs
 - Ajouter un membre pour la fenêtre principale
 - Instancier dans le constructeur la fenêtre principale et montrer celle-ci.
 
-```
+```csharp
 public partial class App : Application
 {
     MainWindow _wnd;
