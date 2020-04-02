@@ -48,3 +48,6 @@ Modifier App.xaml en supprimant StartupURI
 
 - Dans le constructeur, indiquer au DataContext le ViewModel que l&#39;on veut associer.
 - Réaliser les bindings nécessaire dans le XAML.
+
+## Commands
+TODO
