@@ -50,4 +50,5 @@ Modifier App.xaml en supprimant StartupURI
 - Réaliser les bindings nécessaire dans le XAML.
 
 ## Commands
-TODO
+- Récupérer la classe DelegateCommand
+- Déterminer les commandes nécessaires pour l'interface
